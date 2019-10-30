@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Extas: Display flex
+  Extras: Display flex
 </h3>
 
 <p align="center">
